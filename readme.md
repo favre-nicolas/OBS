@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/favre-nicolas/OBS#requirements-software"><img src="https://img.shields.io/badge/Requirements%20%26%20Software-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
+    <a href="https://github.com/favre-nicolas/OBS#software--requirements"><img src="https://img.shields.io/badge/Software%20%26%20Requirements-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
     <br />
     <a href="https://github.com/favre-nicolas/OBS#plugins_list"><img src="https://img.shields.io/badge/Plugins_list-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
     <a href="https://github.com/favre-nicolas/OBS#scripts_list"><img src="https://img.shields.io/badge/Scripts_List-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
@@ -28,9 +28,22 @@
 > [!NOTE]
 > Tools required by software may be missing
 
+### Software
+- [OBS Studio](https://s.favre.icu/obs)
+
+### Requirements
+| Name | Windows | Linux | Mac |
+|:--:|--|--|--|
+| [NDI](https://s.favre.icu/ndi) | [Windows](https://s.favre.icu/ndi-win) | [Debian/Ubuntu](https://s.favre.icu/ndi-linux-deb) | [MacOS](https://s.favre.icu/ndi-linux-mac) |
 
 
 ## List of plugins:
+| Name | Website | Windows | Linux | Mac |
+|:--:|--|--|--|--|
+| DistroAV (obs-ndi) | [website](https://s.favre.icu/distroav) · [github](https://s.favre.icu/distroav-gh) | ✔️ | ✔️ | ✔️ |
+| Aitum Vertical | [website](https://s.favre.icu/aitum-vertical) · [forum](https://s.favre.icu/aitum-vertical-forum) · [github](https://s.favre.icu/aitum-vertical-gh) | ✔️ | ✔️ | ✔️ |
+| Retro Effects | [forum](https://s.favre.icu/retro-effects-forum) · [github](https://s.favre.icu/retro-effects-gh) | ✔️ | ✔️ | ✔️ |
+| obs-multi-rtmp | [forum](https://s.favre.icu/multi-rtmp-forum) · [github](https://s.favre.icu/multi-rtmp-gh) | ✔️ | ✔️ | ✔️ |
 
 ## List of scripts:
 
