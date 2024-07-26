@@ -39,7 +39,7 @@
 
 ## List of plugins:
 | Name | Website | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" alt="Linux" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="MacOS" width="20"/> |
-|:--:|--|--|--|--|
+|:--:|--|:--:|:--:|:--:|
 | DistroAV (obs-ndi) | <a href="https://s.favre.icu/distroav" target="_blank">website</a> · <a href="https://s.favre.icu/distroav-gh" target="_blank">github</a> | ✔️ | ✔️ | ✔️ |
 | Aitum Vertical | <a href="https://s.favre.icu/aitum-vertical" target="_blank">website</a> · <a href="https://s.favre.icu/aitum-vertical-forum" target="_blank">forum</a> · <a href="https://s.favre.icu/aitum-vertical-gh" target="_blank">github</a> | ✔️ | ✔️ | ✔️ |
 | Retro Effects | <a href="https://s.favre.icu/retro-effects-forum" target="_blank">forum</a> · <a href="https://s.favre.icu/retro-effects-gh" target="_blank">github</a> | ✔️ | ✔️ | ✔️ |
