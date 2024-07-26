@@ -32,13 +32,13 @@
 - [OBS Studio](https://s.favre.icu/obs)
 
 ### Requirements
-| Name | Windows | Linux | Mac |
+| Name | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" alt="Linux" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="MacOS" width="20"/> |
 |:--:|--|--|--|
 | [NDI](https://s.favre.icu/ndi) | [Windows](https://s.favre.icu/ndi-win) | [Debian/Ubuntu](https://s.favre.icu/ndi-linux-deb) | [MacOS](https://s.favre.icu/ndi-linux-mac) |
 
 
 ## List of plugins:
-| Name | Website | Windows | Linux | Mac |
+| Name | Website | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" alt="Linux" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="MacOS" width="20"/> |
 |:--:|--|--|--|--|
 | DistroAV (obs-ndi) | [website](https://s.favre.icu/distroav) · [github](https://s.favre.icu/distroav-gh) | ✔️ | ✔️ | ✔️ |
 | Aitum Vertical | [website](https://s.favre.icu/aitum-vertical) · [forum](https://s.favre.icu/aitum-vertical-forum) · [github](https://s.favre.icu/aitum-vertical-gh) | ✔️ | ✔️ | ✔️ |
