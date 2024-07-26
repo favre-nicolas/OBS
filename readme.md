@@ -29,21 +29,21 @@
 > Tools required by software may be missing
 
 ### Software
-- [OBS Studio](https://s.favre.icu/obs){:target="_blank" rel="noopener"}
+- [OBS Studio](https://s.favre.icu/obs)
 
 ### Requirements
 | Name | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" alt="Linux" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="MacOS" width="20"/> |
 |:--:|--|--|--|
-| [NDI](https://s.favre.icu/ndi){:target="_blank" rel="noopener"} | [Windows](https://s.favre.icu/ndi-win){:target="_blank" rel="noopener"} | [Debian/Ubuntu](https://s.favre.icu/ndi-linux-deb){:target="_blank" rel="noopener"} | [MacOS](https://s.favre.icu/ndi-linux-mac){:target="_blank" rel="noopener"} |
+| [NDI](https://s.favre.icu/ndi) | [Windows](https://s.favre.icu/ndi-win) | [Debian/Ubuntu](https://s.favre.icu/ndi-linux-deb) | [MacOS](https://s.favre.icu/ndi-linux-mac) |
 
 
 ## List of plugins:
 | Name | Website | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" alt="Linux" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="MacOS" width="20"/> |
 |:--:|--|--|--|--|
-| DistroAV (obs-ndi) | [website](https://s.favre.icu/distroav){:target="_blank" rel="noopener"} · [github](https://s.favre.icu/distroav-gh){:target="_blank" rel="noopener"} | ✔️ | ✔️ | ✔️ |
-| Aitum Vertical | [website](https://s.favre.icu/aitum-vertical){:target="_blank" rel="noopener"} · [forum](https://s.favre.icu/aitum-vertical-forum){:target="_blank" rel="noopener"} · [github](https://s.favre.icu/aitum-vertical-gh){:target="_blank" rel="noopener"} | ✔️ | ✔️ | ✔️ |
-| Retro Effects | [forum](https://s.favre.icu/retro-effects-forum){:target="_blank" rel="noopener"} · [github](https://s.favre.icu/retro-effects-gh){:target="_blank" rel="noopener"} | ✔️ | ✔️ | ✔️ |
-| obs-multi-rtmp | [forum](https://s.favre.icu/multi-rtmp-forum){:target="_blank" rel="noopener"} · [github](https://s.favre.icu/multi-rtmp-gh){:target="_blank" rel="noopener"} | ✔️ | ✔️ | ✔️ |
+| DistroAV (obs-ndi) | <a href="https://s.favre.icu/distroav" target="_blank">website</a> · <a href="https://s.favre.icu/distroav-gh" target="_blank">github</a> | ✔️ | ✔️ | ✔️ |
+| Aitum Vertical | <a href="https://s.favre.icu/aitum-vertical" target="_blank">website</a>· <a href="https://s.favre.icu/aitum-vertical-forum" target="_blank">forum</a> · <a href="https://s.favre.icu/aitum-vertical-gh" target="_blank">github</a> | ✔️ | ✔️ | ✔️ |
+| Retro Effects | <a href="https://s.favre.icu/retro-effects-forum" target="_blank">forum</a> · <a href="https://s.favre.icu/retro-effects-gh" target="_blank">github</a> | ✔️ | ✔️ | ✔️ |
+| obs-multi-rtmp | <a href="https://s.favre.icu/multi-rtmp-forum" target="_blank">forum</a>· <a href="https://s.favre.icu/multi-rtmp-gh" target="_blank">github</a> | ✔️ | ✔️ | ✔️ |
 
 ## List of scripts:
 
