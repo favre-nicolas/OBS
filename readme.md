@@ -30,11 +30,16 @@
 
 ### Software
 - [OBS Studio](https://s.favre.icu/obs)
+- [NDI Tools](https://s.favre.icu/ndi-tools)
+- [Voicemeeter](https://s.favre.icu/voicemeeter)
+- [Elgato](https://s.favre.icu/elgato) (Stream Deck, Wave Link, 4K Capture Utility)
+- [Spotify](https://s.favre.icu/spotify)
+- [VLC](https://s.favre.icu/vlc)
 
 ### Requirements
 | Name | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" alt="Linux" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="MacOS" width="20"/> |
 |:--:|--|--|--|
-| [NDI](https://s.favre.icu/ndi) | [Windows](https://s.favre.icu/ndi-win) | [Debian/Ubuntu](https://s.favre.icu/ndi-linux-deb) | [MacOS](https://s.favre.icu/ndi-linux-mac) |
+| [NDI Runtime](https://s.favre.icu/ndi) | [Windows](https://s.favre.icu/ndi-win) | [Debian/Ubuntu](https://s.favre.icu/ndi-linux-deb) | [MacOS](https://s.favre.icu/ndi-linux-mac) |
 
 
 ## List of plugins:
