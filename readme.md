@@ -14,6 +14,7 @@
     <a href="https://github.com/favre-nicolas/OBS#list-of-plugins"><img src="https://img.shields.io/badge/Plugins_list-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
     <a href="https://github.com/favre-nicolas/OBS#list-of-scripts"><img src="https://img.shields.io/badge/Scripts_List-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
     <a href="https://github.com/favre-nicolas/OBS#list-of-themes"><img src="https://img.shields.io/badge/Themes_List-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
+    <a href="https://github.com/favre-nicolas/OBS#list-of-stream-deck-plugins"><img src="https://img.shields.io/badge/Stream_Deck_Plugins-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
     <br />
     <a href="https://github.com/favre-nicolas/OBS#overlays"><img src="https://img.shields.io/badge/Overlays-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
     <a href="https://github.com/favre-nicolas/OBS#assets"><img src="https://img.shields.io/badge/Assets-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
@@ -53,3 +54,9 @@
 ## List of scripts:
 
 ## List of themes:
+
+## List Of Stream Deck Plugins
+| Name | Website |
+|:--:|--|
+| Multi OBS Controller | <a href="https://s.favre.icu/multi-obs-controller" target="_blank">website</a> · <a href="https://s.favre.icu/multi-obs-controller-gh" target="_blank">github</a> |
+
